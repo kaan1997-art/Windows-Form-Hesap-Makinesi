@@ -1,0 +1,10 @@
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\bin\Debug\WindowsFormsHesapMakinesi1.exe.config
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\bin\Debug\WindowsFormsHesapMakinesi1.exe
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\bin\Debug\WindowsFormsHesapMakinesi1.pdb
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\obj\Debug\WindowsFormsHesapMakinesi1.csprojAssemblyReference.cache
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\obj\Debug\WindowsFormsHesapMakinesi1.Form1.resources
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\obj\Debug\WindowsFormsHesapMakinesi1.Properties.Resources.resources
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\obj\Debug\WindowsFormsHesapMakinesi1.csproj.GenerateResource.cache
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\obj\Debug\WindowsFormsHesapMakinesi1.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\obj\Debug\WindowsFormsHesapMakinesi1.exe
+C:\Users\KAAN\source\repos\WindowsFormsHesapMakinesi1\WindowsFormsHesapMakinesi1\obj\Debug\WindowsFormsHesapMakinesi1.pdb
